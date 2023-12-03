@@ -1,7 +1,5 @@
-[submodule "Hugo-Octopress"]
+[submodule "themes/Hugo-Octopress"]
 	path = themes/Hugo-Octopress
 	url = https://github.com/parsiya/Hugo-Octopress.git
 
-[submodule "thems/ssss"]
-	path = thems/ssss
-	url = https://github.com/parsiya/Hugo-Octopress.git
+
