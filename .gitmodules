@@ -1,4 +1,7 @@
 
-[submodule ".github/workflows/theme"]
-	path = .github/workflows/theme
+[submodule ".github/workflows/themes"]
+	path = .github/workflows/themes
+	url = https://github.com/parsiya/Hugo-Octopress.git
+[submodule ".github/themes"]
+	path = .github/themes
 	url = https://github.com/parsiya/Hugo-Octopress.git
