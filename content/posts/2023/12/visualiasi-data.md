@@ -63,3 +63,4 @@ Dengan adanya visualisasi data dapat mempermudah seseorang untuk menyampaikan in
 
 Syarioul, Nadiar Ahmad. Visualisasi Data Interaktif Terbuka Pemerintahan Provinsi DKI Jakarta: Topik Ekonomi dan Keuangan Daerah.2016.Bandung:Universitas Komputer Indonesia
 
+
