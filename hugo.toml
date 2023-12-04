@@ -1,5 +1,5 @@
 
-baseurl = "https://example.com"
+baseurl = "https://lbisiunand.netlify.app"
 disablePathToLower = false
 languageCode = "en-us"
 url = '/articles/my-first-article'
